@@ -605,7 +605,7 @@ Full dependency list: `requirements.txt`
 
 ## Acknowledgments
 
-- **Dr. [Instructor Name]** — Course instructor for Special Topics in Bioinformatics (BI-436), NUST SINES
+- **Dr. Tanveer Ahmad** — Course instructor for Special Topics in Bioinformatics (BI-436), NUST SINES
 - **Bio-Learn Development Team** — For harmonizing 39 aging biomarkers in one open-source framework
 - **Galaxy Training Network** — For the methylation-seq tutorial
 - **NCBI Gene Expression Omnibus (GEO)** — For hosting public methylation datasets
@@ -613,26 +613,14 @@ Full dependency list: `requirements.txt`
 
 ---
 
-## License
-
-This project is licensed under the MIT License — you're free to use, modify, and distribute with attribution. See [LICENSE](LICENSE) for details.
-
-**Citation:**
-
-```
-Asad, M. T. (2026). DNA Methylation & Epigenetic Aging: A Comprehensive Analysis.
-GitHub repository: https://github.com/taimoorasad01/epigenetics-aging-analysis
-```
-
----
 
 ## Contact
 
 **Muhammad Taimoor Asad**  
 BS Bioinformatics, SINES, NUST  
 Registration Number: 473749  
-Email: [your.email@example.com]  
-LinkedIn: [Your LinkedIn Profile]  
+Email: taimoorasad01@gmail.com 
+LinkedIn: www.linkedin.com/in/muhammad-taimoor-asad-7b3247196 
 GitHub: [@taimoorasad01](https://github.com/taimoorasad01)
 
 *Questions? Found an error? Want to collaborate? Open an issue or reach out directly!*
