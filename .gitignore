@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.h5ad
+*.zarr/
+data/epic_array/*
+!data/epic_array/.gitkeep
+data/wgbs/*
+!data/wgbs/.gitkeep
+.DS_Store
+venv/
+env/
+*.csv
+*.tsv
+!results/**/*.csv
+!results/**/*.tsv
+.biolearn/
