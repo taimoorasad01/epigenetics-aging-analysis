@@ -621,11 +621,10 @@ BS Bioinformatics, SINES, NUST
 Registration Number: 473749  
 Email: taimoorasad01@gmail.com 
 LinkedIn: www.linkedin.com/in/muhammad-taimoor-asad-7b3247196 
-GitHub: [@taimoorasad01](https://github.com/taimoorasad01)
 
 *Questions? Found an error? Want to collaborate? Open an issue or reach out directly!*
 
 ---
 
 **Last Updated:** April 2026  
-**Made with 🧬 in Islamabad, Pakistan**
+
